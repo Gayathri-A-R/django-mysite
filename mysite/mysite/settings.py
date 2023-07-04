@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-vsi!v#u+y9!@s1fn9umy4a7xpxhnh+l)yj7$f*uurnikc!6os+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ccf30206-d095-47cc-be8d-d1bb8a81c91a-10-244-5-90-80.papa.r.killercoda.com']
+ALLOWED_HOSTS = ['127.0.0.1','ccf30206-d095-47cc-be8d-d1bb8a81c91a-10-244-5-90-80.papa.r.killercoda.com']
 
 
 # Application definition
